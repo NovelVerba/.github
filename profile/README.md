@@ -2,16 +2,17 @@
 
 **Translate entire web novels.**
 
-[NovelVerba](https://novelverba.com) is a web application built specifically for translating long Chinese, Japanese, and Korean novel files (EPUB, TXT, Markdown) into multiple languages, including English, Vietnamese, Indonesian, Thai, Spanish, Arabic, Brazilian Portuguese, and German, with more added over time.
+[NovelVerba](https://novelverba.com) is a web application built specifically for translating Chinese, Japanese, and Korean web novels into multiple languages, including English, Vietnamese, Indonesian, Thai, Spanish, Arabic, Brazilian Portuguese, and German, with more added over time. Paste a newly released chapter directly or upload full EPUB, TXT, or Markdown files.
 
 ## Why it exists
 
-General translators often drift on character names, place names, and how characters address each other across long multi-chapter books. NovelVerba focuses on chapter-by-chapter consistency for personal reading:
+General translators often drift on character names, place names, and how characters address each other across long multi-chapter stories. NovelVerba focuses on chapter-by-chapter consistency for personal reading:
 
+- **Paste text or upload files:** paste one new chapter (or multiple chapters with headings) to read right away, or upload full EPUB, TXT, and Markdown files.
 - **Project glossary and character address pairs:** scan and review key names, terms, and pronoun/address relationships before translating chapters.
 - **Line-level review and retranslation:** compare translated lines against the source text while the source is retained, with flagged lines marked for review.
-- **Format-aware export:** uploaded EPUB files preserve images and most original formatting on export; TXT and Markdown uploads can be exported as a newly built EPUB.
-- **Bring your own files:** NovelVerba has no novel catalog and no URL scraper. It only processes files you own or have the right to translate.
+- **Format-aware export:** uploaded EPUB files preserve images and most original formatting on export; pasted chapters and TXT/Markdown uploads can be exported as a newly built EPUB.
+- **Your text only:** NovelVerba has no web novel catalog and no URL scraper. It only processes text or files you own or have the right to translate.
 
 ## Free browser tools
 
@@ -25,7 +26,7 @@ All three utilities run locally in your browser without uploading your files to 
 
 - **Credits by source characters:** new accounts can receive a free trial after verification (subject to program availability), followed by one-time prepaid credit packs. Purchased credits do not expire, and there is no recurring subscription.
 - **International billing:** card payments, taxes, invoices, and card refunds are handled by Creem as merchant of record.
-- **Automatic source cleanup:** uploaded source files are deleted automatically when a novel is finished or after 30 days of inactivity, while your translations remain readable and exportable.
+- **Automatic source cleanup:** source text is deleted automatically when a novel is finished or after 30 days of inactivity, while your translations remain readable and exportable.
 - **Honest limit:** long fiction still needs a human pass, especially on dialogue, even on lines that are not flagged.
 
 ## Links
@@ -33,3 +34,4 @@ All three utilities run locally in your browser without uploading your files to 
 - Website: https://novelverba.com
 - Support: contact@novelverba.com
 - Gravatar: https://gravatar.com/novelverba
+- Reddit: https://www.reddit.com/user/NovelVerba/

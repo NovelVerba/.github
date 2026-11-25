@@ -37,3 +37,4 @@ All three utilities run locally in your browser without uploading your files to 
 - Reddit: https://www.reddit.com/user/NovelVerba/
 - Substack: https://novelverba.substack.com
 - Medium: https://medium.com/@novelverba
+- Listed on: [SaaSHub](https://www.saashub.com/novelverba)

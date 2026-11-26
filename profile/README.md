@@ -38,3 +38,5 @@ All three utilities run locally in your browser without uploading your files to 
 - Substack: https://novelverba.substack.com
 - Medium: https://medium.com/@novelverba
 - Listed on: [SaaSHub](https://www.saashub.com/novelverba)
+- DEV Community: https://dev.to/novelverba
+- Engineering notes: [Translating an EPUB in place: the paragraph that came out as 26 lines](https://dev.to/novelverba/translating-an-epub-in-place-the-paragraph-that-came-out-as-26-lines-5cjp)

@@ -16,9 +16,11 @@ General translators often drift on character names, place names, and how charact
 
 ## Free browser tools
 
-All three utilities run locally in your browser without uploading your files to a server:
+All five utilities run locally in your browser without uploading your files to a server:
 
 - [Free TXT to EPUB Converter](https://novelverba.com/txt-to-epub) - turn plain TXT novels into clean EPUB files with automatic chapter splitting.
+- [Free Novel Cover Maker](https://novelverba.com/novel-cover-maker) - design genre-matched novel covers with custom title, author, series info, and e-ink preview.
+- [Free EPUB Cover & Metadata Editor](https://novelverba.com/epub-editor) - replace cover art and edit title, author, series, and language inside existing EPUB files.
 - [Free EPUB Validator](https://novelverba.com/epub-validator) - check EPUB files for broken chapters, structure issues, and e-reader errors.
 - [Free EPUB Optimizer](https://novelverba.com/epub-optimizer) - clean up EPUB formatting and layout for Kindle, Kobo, and other e-readers.
 

@@ -31,6 +31,11 @@ All five utilities run locally in your browser without uploading your files to a
 - **Automatic source cleanup:** source text is deleted automatically when a novel is finished or after 30 days of inactivity, while your translations remain readable and exportable.
 - **Honest limit:** long fiction still needs a human pass, especially on dialogue, even on lines that are not flagged.
 
+## Engineering notes
+
+- [Drawing e-reader covers with HTML Canvas: 16 grays, font subsets and titles without spaces](https://dev.to/novelverba/drawing-e-reader-covers-with-html-canvas-16-grays-font-subsets-and-titles-without-spaces-17cf) (DEV.to)
+- [Translating an EPUB in place: the paragraph that came out as 26 lines](https://dev.to/novelverba/translating-an-epub-in-place-the-paragraph-that-came-out-as-26-lines-5cjp) (DEV.to)
+
 ## Links
 
 - Website: https://novelverba.com
@@ -39,6 +44,6 @@ All five utilities run locally in your browser without uploading your files to a
 - Reddit: https://www.reddit.com/user/NovelVerba/
 - Substack: https://novelverba.substack.com
 - Medium: https://medium.com/@novelverba
-- Listed on: [SaaSHub](https://www.saashub.com/novelverba)
 - DEV Community: https://dev.to/novelverba
-- Engineering notes: [Translating an EPUB in place: the paragraph that came out as 26 lines](https://dev.to/novelverba/translating-an-epub-in-place-the-paragraph-that-came-out-as-26-lines-5cjp)
+- Viblo (VI): https://viblo.asia/u/trithu
+- Listed on: [SaaSHub](https://www.saashub.com/novelverba)
